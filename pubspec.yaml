@@ -1,6 +1,7 @@
 name: shuffle
 version: 1.0.0
-author: Samuel Hapak
+author: Samuel Hapak <samuel.hapak@vacuumlabs.com>
 description: Simple library providing random shuffle functionality to iterables.
+homepage: http://vacuumlabs.com
 dev_dependencies:
   unittest: any
