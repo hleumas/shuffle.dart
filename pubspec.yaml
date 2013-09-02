@@ -1,0 +1,6 @@
+name: shuffle
+version: 1.0.0
+author: Samuel Hapak
+description: Simple library providing random shuffle functionality to iterables.
+dev_dependencies:
+  unittest: any
